@@ -5,7 +5,7 @@ description 'DokusSync -- Trains for public transport'
 author 'http://DokusCore.com'
 fx_version "adamant"
 games {"rdr3"}
-version '0.0.1 BETA (IN PROGRESS)'
+version '0.0.2'
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 client_scripts {
