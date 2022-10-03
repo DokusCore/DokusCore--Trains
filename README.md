@@ -1,7 +1,7 @@
 ---
 <p align="center">
   <img width="600" height="200" src="https://user-images.githubusercontent.com/49053928/111937011-2e9b8080-8ac7-11eb-914a-a0d94380d611.gif"><br>
- <b>DokusCore Trains (v0.0.2) [BETA]</b> - Trains for public transport!.
+ <b>DokusCore Trains (v0.0.3) [BETA]</b> - Trains for public transport!.
 </p>
 
 ---
@@ -23,8 +23,11 @@ set up a DokusCore server, see the following video: [Installation video](https:/
 
 ---
 # Installation
-Simply extract the `DokusCore--Trains` into your `resources` folder, and <br>
-start it via `ensure DokusCore--Trains`.
+Simply extract the `DokusCore--Trains` into your `resources` folder, <br>
+and start it via `ensure DokusCore--Trains`. Then go to the Modules.lua <br>
+file of `DokusCore` itself and at `_Modules = { Trains }` set it to `true`. <br>
+If left to `false` the core will create its own character on ID 1 and not the <br>
+multi characters plugin.
 
 ---
 # Plugin Information
@@ -43,14 +46,14 @@ be reworked so that the trains sync up with all clients so that they continue to
 
 ---
 # Discord
-On our [Discord](https://discord.io/DokusCore) you can find all Information about this<br>
+On our [Discord](https://discord.io/dokuscore) you can find all Information about this<br>
 project, feel free to join. Here you can also interact with other playing and testing<br>
 the Core, as well as giving your suggestions and opinions.
 
 ---
 # Searching for Developers
 Do you enjoy developing, and would you like to take part into the DokusCore<br>
-project ? Join our [Discord](https://discord.io/DokusCore) and contact one of the Administrators.
+project ? Join our [Discord](https://discord.io/dokuscore) and contact one of the Administrators.
 
 ---
 # Future ideas for this plugin

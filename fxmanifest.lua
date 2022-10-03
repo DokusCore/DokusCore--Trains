@@ -5,7 +5,7 @@ description 'DokusSync -- Trains for public transport'
 author 'http://DokusCore.com'
 fx_version "adamant"
 games {"rdr3"}
-version '0.0.2'
+version '0.0.3'
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 client_scripts {
@@ -21,6 +21,7 @@ server_scripts { '[ Core ]/[ Server ]/*.lua' }
 --------------------------------------------------------------------------------
 shared_script {
   '@DokusCore/[ Configs ]/[ Core ]/Core.lua',
+  '@DokusCore/[ Configs ]/[ Core ]/Modules.lua',
   '@DokusCore/[ Configs ]/[ Modules ]/Trains.lua',
   '@DokusCore/[ Core ]/[ System ]/[ Shared ]/CBSystem.lua',
 }
