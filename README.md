@@ -53,7 +53,7 @@ the Core, as well as giving your suggestions and opinions.
 ---
 # Searching for Developers
 Do you enjoy developing, and would you like to take part into the DokusCore<br>
-project ? Join our [Discord](https://discord.io/dokuscore) and contact one of the Administrators.
+project ? Join our [Discord](https://discord.com/invite/ksQRq25Hcz) and contact one of the Administrators.
 
 ---
 # Future ideas for this plugin
